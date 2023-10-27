@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **as an intern at Ludogorie Soft.**
 
-- 🌱 I’m currently learning **Java Web with Spring Boot, PHP, MySQL, C++, C#**
+- 🌱 I’m currently learning **Java Web with Spring Boot, MySQL, C++ and C#**
 
 - 📫 How to reach me **belisaliosmanova@gmail.com**
 
