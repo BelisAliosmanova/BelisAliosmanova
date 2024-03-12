@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Cool School](https://github.com/Gin-n-Tonicc/Cool-School)
 
-- 🔭 I am currently working as an intern at **Ludogorie Soft**
+- 🔭 I am currently working as an intern at **Ludogorie-Soft**
 
 - 💬 Ask me about **Java, Spring Boot, MySQL,Thymeleaf, etc.**
 
 - 📫 Connect with me **on the social platforms below**
   
-- ✨If you want to check out more of my projects you can see at [Gin & Tonic](https://github.com/Gin-n-Tonicc) and [Ludogorie-Soft]([https://github.com/Gin-n-Tonicc](https://github.com/Ludogorie-Soft))
+- ✨If you want to check out more of my projects you can see at [**Gin & Tonic**](https://github.com/Gin-n-Tonicc) and [**Ludogorie-Soft**](https://github.com/Ludogorie-Soft)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
