@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working as an intern at **Ludogorie-Soft**
 
-- 💬 Ask me about **Java, Spring Boot, MySQL,Thymeleaf, etc.**
+- 💬 Ask me about **Java, Spring Boot, MySQL, Thymeleaf, etc.**
 
 - 📫 Connect with me **on the social platforms below**
   
