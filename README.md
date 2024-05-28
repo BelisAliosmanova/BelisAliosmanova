@@ -26,3 +26,94 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=belisaliosmanova&layout=compact&langs_count=8&theme=cobalt&count_private=true"/>
 </a>
 
+## Projects, awards and certificates
+#### Most of the projects are developed as a team 
+___
+
+**Project:** [**Cool School**](https://github.com/Gin-n-Tonicc/Cool-School)
+
+**💻 Tech:** React.js, TypeScript, SASS, TSX, Java, Spring Boot, MySQL, Google, OpenAI
+
+**📊 Status:** Finished development.
+
+**🏆 Awards:** 
+- 🥈 2nd place at Softuniada 2024, Web Projects over the age of 16. [Certificate](https://drive.google.com/file/d/1bX8yCmPS4rljZPKqtCPPzeLZ7Whud8Qc/view?usp=sharing)
+- 🏅 7th place at the biggest information technology competition in Bulgaria - NOIT
+
+___
+  
+**Project:** [**Event Entry**](https://github.com/Gin-n-Tonicc/Event-Entry)
+
+**💻 Tech:** React.js, TypeScript, SASS, TSX, Java, Spring Boot, MySQL, Google
+
+**📊 Status:** Finished development.
+
+**🏆 Awards:** 
+- 🥇 1st place at Ludogorie Hack 2024, a three day hackathon. [Certificate](https://drive.google.com/file/d/1y-otCjQOHWjRJ2knKbwSNRajbZj6opJd/view?usp=sharing)
+___
+
+**Project:** [**Education Plus**](https://github.com/Gin-n-Tonicc/Education-Plus)
+
+**💻 Tech:** Angular, TypeScript, HTML5, CSS3, Java, Spring Boot, MySQL
+
+**📊 Status:** Finished development.
+
+**🏆 Awards:** 
+- 🥈 2nd place at Ludogorie Hack 2023, a three day hackathon. [Certificate](https://drive.google.com/file/d/1O2kDYCMJNEaBctGEdnmd_23-JhalrdF4/view?usp=sharing)
+
+___
+
+**Project:** [**Restaurant Management System**](https://github.com/Gin-n-Tonicc/Education-Plus)
+
+**💻 Tech:** Java, Spring Boot, MySQL, Bootstrap, HTML5, CSS
+
+**📊 Status:** Finished development.
+
+**🏆 Awards:** 
+- 🥇 1st place at IT World - National Tournament in Information Technology 2023. [Certificate](https://drive.google.com/file/d/128j3bpjx2Pgzcnh-XisvPs7q2cD-nAwy/view?usp=sharing)
+- 🏅 Final project for a Java Web programming course completed with a grade of 6.00. [Certificate](https://drive.google.com/file/d/12CXY0BmSZnbRuHV1CubDG8kTJLGCsSmo/view?usp=sharing)
+
+___
+
+
+**Project:** [**Chess**](https://github.com/BelisAliosmanova/ProjectChess)
+
+**💻 Tech:** Java
+
+**📊 Status:** Finished development.
+
+**🏆 Awards:** 
+- 🏅 Final project for a Java OOP programming course completed with a grade of 6.00.
+  
+___
+
+**Project:** [**Hotel Management System**](https://github.com/BelisAliosmanova/HotelManagementSystem)
+
+**💻 Tech:** Java
+
+**📊 Status:** Finished development.
+
+**🏆 Awards:** 
+- 🏅 Final project for a Java Basics programming course completed with a grade of 6.00.
+  
+___
+
+**Microsoft Office Specialist**
+
+**💻 Tech:** PowerPoint and PowerPoint 2019
+
+**📅 Date:** June 13, 2022
+
+**🏆 Awards:** 
+- 🏅 Successfully completed the requirements to be recognized as a Microsoft Office Specialist. [Certificate](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=421&cvid=DkUtuDzFQvyNlvqsOiKocw==)
+
+___
+
+**YouthPass certificate**
+
+**📅 Date:** January 26, 2024
+
+The participation in the project has no direct connection with programming. The idea is aimed at **cyber security**.
+  
+**🏆 Awards:** 
+- 🏅 Successfully completed seminar on "Safe online" [Certificate](https://www.youthpass.eu/en/verify/CBET-D44X-K1K1-ABCS/Belis%20Aliosmanova)
