@@ -37,6 +37,7 @@ ___
 **📊 Status:** Finished development.
 
 **🏆 Awards:** 
+- 🥇 1st place at IT World - National Tournament in Information Technology 2024. [Certificate](https://drive.google.com/file/d/1YCecxmp1l291UFH0jzBoFMbc0fcWTqZJ/view)
 - 🥈 2nd place at Softuniada 2024, Web Projects over the age of 16. [Certificate](https://drive.google.com/file/d/1bX8yCmPS4rljZPKqtCPPzeLZ7Whud8Qc/view?usp=sharing)
 - 🏅 7th place at the biggest information technology competition in Bulgaria - NOIT
 
