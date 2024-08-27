@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Belis Aliosmanova</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on [Local Web](https://github.com/Gin-n-Tonicc/LocalWeb) and [Plug and Play](https://github.com/Gin-n-Tonicc/Plug-n-Play)
+- 🔭 I’m currently working on [Life AI]([https://github.com/Gin-n-Tonicc/LocalWeb](https://github.com/BelisAliosmanova/LifeAI))
 
 - 🔭 I am currently working as an intern at **Ludogorie-Soft**
 
