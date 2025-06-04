@@ -36,6 +36,17 @@
 
 ## Projects, awards and certificates
 #### Most of the projects are developed as a team 
+
+___
+
+**Project:** [**LIfeAI**](https://github.com/PixelChicks/LifeAI)
+(Microservice architecture, the link sends to the backend repo)
+
+**💻 Tech:** Java, Spring Boot, MySQL, Thymeleaf, HTML, CSS, OpenAI;
+
+**🏆 Awards:** 
+- 🥇 1st place at Student Competition for the FMI Dean's Cup in Informatics and Information Technologies, Software project - 2025
+- 🥇 1st place at National Spring Tournament in Information Technology Veliko Tarnovo, Internet application - 2025
 ___
 
 **Project:** [**Cool School**](https://github.com/Gin-n-Tonicc/Cool-School)
